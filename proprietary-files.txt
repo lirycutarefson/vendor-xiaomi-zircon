@@ -1,0 +1,3 @@
+boot.img
+vbmeta.img
+vendor_boot.img

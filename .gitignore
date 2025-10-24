@@ -1,0 +1,25 @@
+# Android build outputs
+out/
+*.odex
+*.apk
+*.ap_
+*.dex
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# temp
+*.log
+*.tmp
+
+# local Android build files
+local_manifest.xml
+*.db
+
+# avoid committing private keys
+*.pem
+*.key
+*.keystore
